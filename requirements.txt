@@ -1,4 +1,4 @@
-request==1.0.117
-flask==latest
+Flask==0.10.1
+Requests==2.6.0
 camera==latest
 opencv-python==latest
