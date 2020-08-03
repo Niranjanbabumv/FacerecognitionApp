@@ -1,0 +1,4 @@
+request==latest
+flask==latest
+camera==latest
+opencv-python==latest
